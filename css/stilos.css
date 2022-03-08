@@ -16,9 +16,10 @@ body{
 }
 
 #container h1{
+    margin-top: 20px;
     font-size: 20px;
     text-align: center;
-    color: rgb(143, 143, 143);
+    color: rgb(75, 74, 74);
     }
 
 #cabecera{
@@ -30,4 +31,8 @@ body{
 #cabecera h2{
     margin: 0px;
 }
-
+#cabecera h1{
+    margin: 0px;
+    color: rgb(131, 131, 134);
+    font-size: 14px;
+}
