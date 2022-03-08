@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: blueviolet;
+    color: black;
     margin: 0px;
     padding: 0px;
 }
@@ -16,5 +16,7 @@ body{
 }
 
 #container h1{
-font-size: 20px;
+font-size: 26px;
+text-align: center;
+border-bottom: 1px solid gray;
 }
