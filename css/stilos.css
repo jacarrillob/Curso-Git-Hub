@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: blueviolet;
+    color: black;
     margin: 0px;
     padding: 0px;
 }
@@ -16,5 +16,18 @@ body{
 }
 
 #container h1{
-font-size: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(143, 143, 143);
+    }
+
+#cabecera{
+    text-align: center;
+    font-size: 28px;
+    border-bottom: 1px solid  rgb(143, 143, 143);
 }
+
+#cabecera h2{
+    margin: 0px;
+}
+
