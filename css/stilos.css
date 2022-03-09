@@ -35,12 +35,19 @@ body{
 
 .post-title-1{
     margin: 0px;
-    padding: 0.5em 0px;
+    padding: 0.8em 0px;
     text-align: left;
+    font-size: 22px;
 }
-
+.post-title-2{
+    margin: 0px;
+    text-align: left;
+    font-size: 12px;
+    color: rgb(180, 180, 180);
+}
 .post-parrafo{
     margin: 0px;
+    padding-top: 0.5em;
     text-align: justify;
 }
 
