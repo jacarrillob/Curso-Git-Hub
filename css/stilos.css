@@ -12,6 +12,23 @@ body{
     font-size: 16px;
 }
 
+#cabecera{
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+.cabecera-title-1{
+    margin: 0px;
+    padding: 0.5em 0px 0px;
+    font-size: 26px;
+}
+.cabecera-title-2{
+    margin: 0px;
+    font-size: 16px;
+    color: rgb(180, 180, 180);
+    padding-top: 0.3em;
+    padding-bottom: 0.8em;
+}
+
 #post{
     text-align: center;
 }
